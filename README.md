@@ -1,4 +1,4 @@
-skyloom link : https://skyloom-weather.netlify.app/
+Skyloom link : https://skyloom-weather-web.netlify.app/
 
 # React + TypeScript + Vite
 
